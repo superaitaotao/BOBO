@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BOBO</string>
+    <string name="action_settings">Settings</string>
+    <string name="level_label">"Level: "</string>
+    <string name="time_label">"Score : "</string>
+    <string name="best_time_label">"High Score: "</string>
+    <string name="game_over">Game Over</string>
+    <string name="swipe_right">Swipe Right to Play</string>
+    <string name="new_best_time">New Best Time!!</string>
+</resources>

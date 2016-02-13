@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BOBO</string>
+    <string name="action_settings">Settings</string>
+    <string name="level_label">"等级: "</string>
+    <string name="time_label">"分数: "</string>
+    <string name="best_time_label">"最高分: "</string>
+    <string name="game_over">游戏结束</string>
+    <string name="swipe_right">右滑重新开始</string>
+    <string name="new_best_time">破纪录了!!</string>
+</resources>
